@@ -1,0 +1,1 @@
+<a class="btn btn-warning" href="{{ route('home')}}" role="button">Home</a>
